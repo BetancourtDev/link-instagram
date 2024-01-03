@@ -53,7 +53,7 @@ const App = () => {
         <div className=" flex items-center justify-center gap-2 flex-col">
           <img
             className=" w-[100px] rounded-full bg-black "
-            src="public/avatar/kim.jpg"
+            src="avatar/kim.jpg"
             alt=""
           />
           <h2 className=" text-white text-[1.65rem] font-bold">
