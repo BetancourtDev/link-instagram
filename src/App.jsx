@@ -14,18 +14,12 @@ const App = () => {
     },
     {
       id: 2,
-      icon: <FaFacebook size={26} />,
-      name: "Facebook",
-      url: "https://www.facebook.com/people/Kim-Betancourt/61554889582624/",
-    },
-    {
-      id: 3,
       icon: <FaLinkedin size={25} />,
       name: "Linkedin",
       url: "https://www.linkedin.com/in/kimberlyn-betancourt-06ba42ba/",
     },
     {
-      id: 4,
+      id: 3,
       icon: <TbWorldWww size={25} />,
       name: "Sitio Web",
       url: "https://betancourtdev.com/",
