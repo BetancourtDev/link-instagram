@@ -28,7 +28,7 @@ const App = () => {
       id: 4,
       icon: <TbWorldWww size={25} />,
       name: "Sitio Web",
-      url: "https://www.devbetancourt.com/",
+      url: "https://betancourtdev.com/",
     },
   ];
   // ------------ DATA-------------
