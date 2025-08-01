@@ -1,8 +1,7 @@
-🌐 Linktree Clone
+🌐 Linktree
 
 Un clon moderno de **Linktree** desarrollado con **React 18**, **Vite** y **TailwindCSS**. Permite mostrar un perfil personal o de marca con enlaces organizados de manera minimalista y responsiva.
 
----
 
 ## 🚀 Características
 
@@ -13,16 +12,12 @@ Un clon moderno de **Linktree** desarrollado con **React 18**, **Vite** y **Tail
 - Totalmente **responsivo** y optimizado para móviles.
 
 
----
-
 ## 📦 Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalado:
 
 - **Node.js** v16 o superior  
 - **npm** o **yarn**
-
----
 
 ## 🛠 Instalación
 
@@ -33,8 +28,6 @@ git clone <url-del-repositorio>
 cd linktree
 npm install
 
-
----
 
 🚀 Scripts disponibles
 
@@ -57,8 +50,6 @@ npm run preview
 Sirve la build localmente para probarla.
 
 
----
-
 📂 Estructura del proyecto
 
 linktree/
@@ -73,48 +64,26 @@ linktree/
 └── package.json
 
 
----
-
 🌐 Despliegue
 
 Desplegar en Vercel
 
 1. Crea una cuenta en Vercel.
-
-
 2. Importa tu repositorio desde GitHub.
-
-
 3. Vercel detectará automáticamente la configuración de Vite.
-
-
 4. Haz clic en Deploy y obtén tu URL pública.
 
-
-
-
----
 
 🛠 Tecnologías utilizadas
 
 React
-
 Vite
-
 TailwindCSS
-
 React Router DOM
-
 React Icons
 
 
+## Demo
 
----
-
-📄 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT.
-Puedes usarlo y modificarlo libremente.
-
-
+https://instagram-kim.vercel.app/
 
